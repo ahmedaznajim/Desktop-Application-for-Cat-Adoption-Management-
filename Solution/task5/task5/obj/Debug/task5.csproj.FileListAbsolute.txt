@@ -1,0 +1,28 @@
+C:\Users\User\Desktop\University\الفصل الأول 2022\C#\TASKS\task 5\task5\task5\bin\Debug\task5.exe.config
+C:\Users\User\Desktop\University\الفصل الأول 2022\C#\TASKS\task 5\task5\task5\bin\Debug\task5.exe
+C:\Users\User\Desktop\University\الفصل الأول 2022\C#\TASKS\task 5\task5\task5\bin\Debug\task5.pdb
+C:\Users\User\Desktop\University\الفصل الأول 2022\C#\TASKS\task 5\task5\task5\obj\Debug\task5.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\University\الفصل الأول 2022\C#\TASKS\task 5\task5\task5\obj\Debug\task5.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\University\الفصل الأول 2022\C#\TASKS\task 5\task5\task5\obj\Debug\task5.Form1.resources
+C:\Users\User\Desktop\University\الفصل الأول 2022\C#\TASKS\task 5\task5\task5\obj\Debug\task5.Properties.Resources.resources
+C:\Users\User\Desktop\University\الفصل الأول 2022\C#\TASKS\task 5\task5\task5\obj\Debug\task5.csproj.GenerateResource.cache
+C:\Users\User\Desktop\University\الفصل الأول 2022\C#\TASKS\task 5\task5\task5\obj\Debug\task5.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\University\الفصل الأول 2022\C#\TASKS\task 5\task5\task5\obj\Debug\task5.exe
+C:\Users\User\Desktop\University\الفصل الأول 2022\C#\TASKS\task 5\task5\task5\obj\Debug\task5.pdb
+C:\Users\User\Desktop\University\الفصل الأول 2022\C#\TASKS\task 5 - task 10\Solution\task5\task5\bin\Debug\task5.exe.config
+C:\Users\User\Desktop\University\الفصل الأول 2022\C#\TASKS\task 5 - task 10\Solution\task5\task5\bin\Debug\task5.exe
+C:\Users\User\Desktop\University\الفصل الأول 2022\C#\TASKS\task 5 - task 10\Solution\task5\task5\bin\Debug\task5.pdb
+C:\Users\User\Desktop\University\الفصل الأول 2022\C#\TASKS\task 5 - task 10\Solution\task5\task5\obj\Debug\task5.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\University\الفصل الأول 2022\C#\TASKS\task 5 - task 10\Solution\task5\task5\obj\Debug\task5.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\University\الفصل الأول 2022\C#\TASKS\task 5 - task 10\Solution\task5\task5\obj\Debug\task5.Form1.resources
+C:\Users\User\Desktop\University\الفصل الأول 2022\C#\TASKS\task 5 - task 10\Solution\task5\task5\obj\Debug\task5.Properties.Resources.resources
+C:\Users\User\Desktop\University\الفصل الأول 2022\C#\TASKS\task 5 - task 10\Solution\task5\task5\obj\Debug\task5.csproj.GenerateResource.cache
+C:\Users\User\Desktop\University\الفصل الأول 2022\C#\TASKS\task 5 - task 10\Solution\task5\task5\obj\Debug\task5.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\University\الفصل الأول 2022\C#\TASKS\task 5 - task 10\Solution\task5\task5\obj\Debug\task5.exe
+C:\Users\User\Desktop\University\الفصل الأول 2022\C#\TASKS\task 5 - task 10\Solution\task5\task5\obj\Debug\task5.pdb
+C:\Users\User\Downloads\drive-download-20250127T212007Z-001\Lab 5 &10\task 5 - task 10\task 5 - task 10\Solution\task5\task5\obj\Debug\task5.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\drive-download-20250127T212007Z-001\Lab 5 &10\task 5 - task 10\task 5 - task 10\Solution\task5\task5\obj\Debug\task5.exe
+C:\Users\User\Downloads\drive-download-20250127T212007Z-001\Lab 5 &10\task 5 - task 10\task 5 - task 10\Solution\task5\task5\obj\Debug\task5.pdb
+C:\Users\User\Desktop\Solution\task5\task5\obj\Debug\task5.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Solution\task5\task5\obj\Debug\task5.exe
+C:\Users\User\Desktop\Solution\task5\task5\obj\Debug\task5.pdb
